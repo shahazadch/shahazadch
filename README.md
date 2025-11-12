@@ -19,7 +19,9 @@ I’m a passionate software engineer with 5+ years of experience building scalab
 |----------|--------------|------|
 | [Ilm Kademy LMS](https://github.com/yourrepo) | Multi-tenant AI-powered LMS for English learning with Django + DRF | Django, React, PostgreSQL |
 | [Car Trade App](https://github.com/yourrepo) | Buy/sell car platform with REST APIs and chat features | Django, DRF, Channels |
+| [Eco Magic Home Cleaning](https://ecomagichomecleaner.com/) | Professional eco-friendly home cleaning website offering service listings, quotes, and contact management | Django, Bootstrap, HTML, CSS |
 | [Portfolio Website](https://devmatixsolutions.com/shahzad/) | Personal portfolio with Django backend | Django, HTML, CSS |
+
 
 ---
 
