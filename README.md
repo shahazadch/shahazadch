@@ -7,7 +7,7 @@ I’m a passionate software engineer with 5+ years of experience building scalab
 
 ### 🛠️ My Tech Stack
 **Languages:** Python, JavaScript, HTML, CSS  
-**Frameworks:** Django, Django REST Framework, React.js, Bootstrap  
+**Frameworks:** Django, Flask, FastAPI, Django REST Framework, React.js, Bootstrap  
 **Databases:** PostgreSQL, MySQL, SQLite  
 **Tools & Cloud:** Docker, DigitalOcean, AWS, Git, Celery, Redis  
 **Others:** REST APIs, WebSockets, JWT Auth, Celery Beat, AI APIs
